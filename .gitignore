@@ -1,3 +1,7 @@
-10_1stProject/
+downloads/
+IDE/
+letNote/
 .ipynb_checkpoints/
+.venv/
+.idea/
 .env
