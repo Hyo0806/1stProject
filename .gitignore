@@ -3,6 +3,9 @@ IDE/
 letNote/
 .ipynb_checkpoints/
 .venv/
+__pycache__/
 .idea/
 .env
 작업일지/
+data/
+etc/
