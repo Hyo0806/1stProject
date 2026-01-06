@@ -32,8 +32,8 @@
 
 ## 📑 목차
 
-[1. 프로젝트 소개](https://github.com/Hyo0806/1stProject?tab=readme-ov-file#project-overview)<br>
-[2. 데이터 수집 및 분석](https://github.com/Hyo0806/1stProject?tab=readme-ov-file#data-preprocessing)<br>
+[1. 프로젝트 소개](https://github.com/Hyo0806/1stProject?tab=readme-ov-file#project-overviewl)<br>
+[2. 데이터 수집 및 분석]https://github.com/Hyo0806/1stProject?tab=readme-ov-file#data-preprocessingl)<br>
 [3. 모델 개발](https://github.com/Hyo0806/1stProject?tab=readme-ov-file#modeling)<br>
 [4. 웹 서비스](https://github.com/Hyo0806/1stProject?tab=readme-ov-file#web-service-implementation)<br>
 [5. 프로젝트 결과](https://github.com/Hyo0806/1stProject?tab=readme-ov-file#project-results)<br>
