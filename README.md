@@ -16,15 +16,6 @@
   </tr>
 
   <tr>
-    <td align="center"><b>OS / Environment</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Windows%2010%20Pro-0078D6?style=for-the-badge&logo=windows&logoColor=white">
-      <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white">
-      <img src="https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white">
-    </td>
-  </tr>
-
-  <tr>
     <td align="center"><b>Programming</b></td>
     <td>
       <img src="https://img.shields.io/badge/Python%203.10.9-3776AB?style=for-the-badge&logo=python&logoColor=white">
