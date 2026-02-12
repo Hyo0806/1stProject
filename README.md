@@ -258,7 +258,7 @@
 
 ## 🎬 Demo Video
 
-[![Video Title](url)](url)
+[![Video Title](https://youtu.be/c8WVS25q9GE)](https://youtu.be/c8WVS25q9GE)
 *클릭하면 데모 영상을 볼 수 있습니다*
 
 [![Demo](https://img.shields.io/badge/Demo-success?style=flat-square)](url)
