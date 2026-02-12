@@ -11,8 +11,18 @@
 - [KDT] 기업맞춤형 AI+X 융복합 인재 양성 과정 1차 팀프로젝트 
 	<table>
   <tr>
-    <td width="160px" align="center"><b>구분</b></td>
+    <td width="170px" align="center"><b>구분</b></td>
     <td><b>기술</b></td>
+  </tr>
+
+  <tr>
+    <td align="center"><b>OS / Environment</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Windows%2010%20Pro-0078D6?style=for-the-badge&logo=windows&logoColor=white">
+      <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white">
+      <img src="https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white">
+      <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
+    </td>
   </tr>
 
   <tr>
@@ -23,18 +33,23 @@
   </tr>
 
   <tr>
-    <td align="center"><b>ML / DL</b></td>
+    <td align="center"><b>Data Analysis</b></td>
     <td>
-      <img src="https://img.shields.io/badge/TensorFlow%202.10-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
-      <img src="https://img.shields.io/badge/XGBoost%201.7.3-EB5424?style=for-the-badge&logoColor=white">
-      <img src="https://img.shields.io/badge/LightGBM-02569B?style=for-the-badge&logoColor=white">
+      <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
+      <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
+      <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white">
+      <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white">
     </td>
   </tr>
 
   <tr>
-    <td align="center"><b>IDE</b></td>
+    <td align="center"><b>Machine Learning / DL</b></td>
     <td>
-      <img src="https://img.shields.io/badge/VSCode%201.107.1-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
+      <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
+      <img src="https://img.shields.io/badge/TensorFlow%202.10-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
+      <img src="https://img.shields.io/badge/XGBoost%201.7.3-EB5424?style=for-the-badge&logoColor=white">
+      <img src="https://img.shields.io/badge/LightGBM-02569B?style=for-the-badge&logoColor=white">
+      <img src="https://img.shields.io/badge/CatBoost-FFCC00?style=for-the-badge&logoColor=black">
     </td>
   </tr>
 
@@ -42,6 +57,10 @@
     <td align="center"><b>Web Framework</b></td>
     <td>
       <img src="https://img.shields.io/badge/Flask%203.0.3-000000?style=for-the-badge&logo=flask&logoColor=white">
+      <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
     </td>
   </tr>
 
@@ -52,6 +71,7 @@
     </td>
   </tr>
 </table>
+
 
 # 🍽 수원시 한식 매출 예측 AI 시스템
 
