@@ -49,7 +49,6 @@
       <img src="https://img.shields.io/badge/TensorFlow%202.10-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
       <img src="https://img.shields.io/badge/XGBoost%201.7.3-EB5424?style=for-the-badge&logoColor=white">
       <img src="https://img.shields.io/badge/LightGBM-02569B?style=for-the-badge&logoColor=white">
-      <img src="https://img.shields.io/badge/CatBoost-FFCC00?style=for-the-badge&logoColor=black">
     </td>
   </tr>
 
@@ -64,12 +63,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td align="center"><b>External API</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/OpenAI%201.93.0-412991?style=for-the-badge&logo=openai&logoColor=white">
-    </td>
-  </tr>
 </table>
 
 
